@@ -1,0 +1,13 @@
+[
+{
+  "modid": "MagicBees2",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "name": "Magic Bees 2",
+  "url": "",
+  "description": "An expansion for Forestry that will add Magical Bees.",
+  "authors": [ "Maxcloud" ],
+  "credits": "SirSengir, Azanor, Binnie, MysteriousAges, Arkandos",
+  "logoFile": ""
+}
+]

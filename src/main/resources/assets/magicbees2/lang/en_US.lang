@@ -1,0 +1,71 @@
+
+#Species
+
+#Bee
+magicbees2.species.abandoned=Abandoned
+magicbees2.species.aluminum=Aluminum
+magicbees2.species.apatite=Apatite
+magicbees2.species.arcane=Arcane
+magicbees2.species.ardite=Ardite
+magicbees2.species.attuned=Attuned
+magicbees2.species.charmed=Charmed
+magicbees2.species.cobalt=Cobalt
+magicbees2.species.copper=Copper
+magicbees2.species.crumbling=Crumbling
+magicbees2.species.diamond=Diamond
+magicbees2.species.doctoral=Doctoral
+magicbees2.species.draconic=Draconic
+magicbees2.species.earthen=Earthy
+magicbees2.species.eldritch=Eldritch
+magicbees2.species.emerald=Emerald
+magicbees2.species.enchanted=Enchanted
+magicbees2.species.esoteric=Esoteric
+magicbees2.species.ethereal=Ethereal
+magicbees2.species.firen=Fire
+magicbees2.species.forlorn=Forlorn
+magicbees2.species.ghastly=Ghastly
+magicbees2.species.gold=Gold
+magicbees2.species.hateful=Hateful
+magicbees2.species.infernal=Infernal
+magicbees2.species.invisible=Invisible
+magicbees2.species.iron=Iron
+magicbees2.species.lead=Lead
+magicbees2.species.lordly=Lordly
+magicbees2.species.manyullyn=Manyullyn
+magicbees2.species.mutable=Mutable
+magicbees2.species.mysterious=Mysterious
+magicbees2.species.mystical=Mystical
+magicbees2.species.nameless=Nameless
+magicbees2.species.oblivion=Oblivion
+magicbees2.species.pupil=Pupil
+magicbees2.species.savant=Savant
+magicbees2.species.scholarly=Scholarly
+magicbees2.species.silver=Silver
+magicbees2.species.skulking=Skulking
+magicbees2.species.smouldering=Smouldering
+magicbees2.species.sorcerous=Sorcerous
+magicbees2.species.soul=Soul
+magicbees2.species.spidery=Spidery
+magicbees2.species.spirit=Spirit
+magicbees2.species.spiteful=Spiteful
+magicbees2.species.soul=Soul
+magicbees2.species.supernatural=Supernatural
+magicbees2.species.timely=Timely
+magicbees2.species.tin=Tin
+magicbees2.species.transmuting=Transmuting
+magicbees2.species.unusual=Unusual
+magicbees2.species.watern=Watery
+magicbees2.species.winden=Windy
+magicbees2.species.withering=Withering
+
+#Tile
+tile.hive.curious.name=Curious Hive
+tile.hive.unusual.name=Unusual Hive
+tile.hive.resonant.name=Resonant Hive
+tile.hive.deep.name=Deep Hive
+tile.hive.infernal.name=Infernal Hive
+tile.hive.oblivion.name=Oblivion Hive
+
+#Research
+research.biome=Occurs within a %s biome
+research.required=Requires a foundation of %s
